@@ -53,7 +53,8 @@ I'm a **Data Science student at the University of Science and Technology of Hano
 <td width="50%" valign="top">
 
 ### 🏅 Awards & certifications
-- **USTH AS Merit Scholarship**<br/><sub>University of Science and Technology of Hanoi · 2023</sub>
+- **USTH AS Merit Scholarship** · awarded 2023<br/><sub>University of Science and Technology of Hanoi</sub>
+- **USTH AS Merit Scholarship** · qualified again 2024<br/><sub>Met the criteria for a second year; not taken up because I chose a gap year overseas</sub>
 - **VinUni AI Practical Competency Program**<br/><sub>AI & Data Infrastructure track · 2026</sub>
 
 </td>
