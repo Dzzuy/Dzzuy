@@ -79,7 +79,7 @@ I'm a **Data Science student at the University of Science and Technology of Hano
     <td align="center" width="25%"><h2>96.5%</h2><sub>context hit rate<br/><b>KG-RAG, labour law</b></sub></td>
     <td align="center" width="25%"><h2>88.5%</h2><sub>compliance accuracy<br/><b>93-question policy set</b></sub></td>
     <td align="center" width="25%"><h2>96.4%</h2><sub>macro-F1<br/><b>Parkinson's motion classifier</b></sub></td>
-    <td align="center" width="25%"><h2>122 yrs</h2><sub>of climate records<br/><b>SE Asia drought study</b></sub></td>
+    <td align="center" width="25%"><h2>122 yrs</h2><sub>of climate records<br/><b>SE Asia drought analysis</b></sub></td>
   </tr>
 </table>
 
