@@ -197,12 +197,13 @@ Also led a 4-person team in a **39-hour AI product hackathon** (SPEC → prototy
 ## 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dzzuy&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzzuy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/Dzzuy/Dzzuy/main/assets/activity.svg" alt="Combined contributions across @Dzzuy and @Dzuy123" width="100%"/>
+  <br/><sub>Contributions from both of my accounts, combined and refreshed daily</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dzzuy&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dzzuy&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=%40Dzzuy" alt="GitHub stats for Dzzuy"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dzuy123&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=%40Dzuy123" alt="GitHub stats for Dzuy123"/>
 </p>
 
 ---
