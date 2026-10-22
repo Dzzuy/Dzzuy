@@ -45,8 +45,9 @@ I'm a **Data Science student at the University of Science and Technology of Hano
 
 | Year | GPA |
 |---|---|
-| 1st year | **3.85 / 5.0** |
-| 2nd year | **4.01 / 5.0** 📈 |
+| 1st year | **3.08 / 4.0** |
+| 2nd year | **3.23 / 4.0** |
+| 3rd year | **3.22 / 4.0** |
 
 </td>
 <td width="50%" valign="top">
