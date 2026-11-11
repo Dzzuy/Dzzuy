@@ -66,7 +66,7 @@ I'm a **Data Science student at the University of Science and Technology of Hano
 <p>
   <img src="https://img.shields.io/badge/🇻🇳_Vietnamese-Native-16a34a?style=for-the-badge" alt="Vietnamese: Native"/>
   <img src="https://img.shields.io/badge/🇬🇧_English-Fluent-2563eb?style=for-the-badge" alt="English: Fluent"/>
-  <img src="https://img.shields.io/badge/🇹🇭_Thai-Intermediate-9333ea?style=for-the-badge" alt="Thai: Intermediate"/>
+  <img src="https://img.shields.io/badge/🇹🇭_Thai-Beginner-9333ea?style=for-the-badge" alt="Thai: Beginner"/>
   <img src="https://img.shields.io/badge/🇫🇷_French-A2-ea580c?style=for-the-badge" alt="French: A2"/>
 </p>
 
